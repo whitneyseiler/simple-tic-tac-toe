@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  align-content: center;
+}
+
+button {
+  font-family: Arial, Helvetica, sans-serif;
+  align-items:center;
+  display:block;
+  margin: 0 auto;
+  font-size: 14px;
+  background-color: white;
+  border-color: lightgrey;
+  color: grey;
+  border-width: medium;
+  border-radius: 25px;
+}
+
+h1 {
+  color: pink;
+}
+
+h2 {
+  color: lightblue;
+}
+
+h3 {
+  color: lightgrey;
+  align: center;
+  font-size: 16px;
+}
+
+table {
+  align-items: center;
+}
+
+td {
+  background-color: turquoise;
+  color: white;
+  font-size: 40px;
+  width: 150px;
+  height: 150px;
+}
+
+td.X {
+  background-color: lightgreen;
+}
+
+td.O {
+  background-color: lightblue;;
+}
